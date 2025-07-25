@@ -30,8 +30,6 @@ I’m passionate about software development, especially backend work, and I enjo
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
-- **PHP (Laravel)** – referenced in projects
 - **Git & GitHub**
 
 ---
@@ -44,15 +42,11 @@ I’m passionate about software development, especially backend work, and I enjo
 
 ---
 
-## 📎 Live Demo (Optional)
 
-> [Add GitHub Pages or Netlify link here if deployed.]
-
----
 
 ## 📫 Contact Me
 
-- Email: nada@example.com
+- Email: nadamohammedehab@gmail.com
 - GitHub: [NadaEhab00](https://github.com/NadaEhab00)
 
 ---
